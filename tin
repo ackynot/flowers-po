@@ -114,7 +114,7 @@ body{
     background:linear-gradient(#0a5f0a,#032b03);
 }
 
-@keyframes sway{
+.keyframes sway{
     from{
         transform:rotate(-3deg);
     }
